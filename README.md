@@ -1,6 +1,7 @@
 #Week 3 Assignment
 
-##Author
+## Author
+
 **Tyler Sutherland**
 
 Ferris State University
