@@ -10,5 +10,5 @@ Ferris State University
 ## Date
 2019-02-08
 
-## Purpose
+## Purpose 
 To learn to push things to git.
